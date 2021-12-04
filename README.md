@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mddaud143
-- 👀 I’m interested in Programing,AI,ML,CS
+- 👀 I’m interested in Programing,AI,ML,Cybersecurity,pentesting
 - 🌱 I’m currently learning My Secret project 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
